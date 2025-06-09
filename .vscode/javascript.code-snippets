@@ -1,0 +1,9 @@
+{
+	"Print to prompt": {
+		"prefix": "prompt",
+		"body": [
+			"let userInput = prompt("$1");",
+		],
+		"description": "Log output to console"
+	}
+}
